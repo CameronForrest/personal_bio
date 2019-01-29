@@ -1,0 +1,25 @@
+/* Nav Bar */
+
+/* search button */
+.btn-outline-success {
+    color: #6EAFE1;
+    border-color: #6EAFE1;
+}
+
+.btn-outline-success:not(:disabled):not(.disabled).active, .btn-outline-success:not(:disabled):not(.disabled):active, .show>.btn-outline-success.dropdown-toggle {
+    color: #fff;
+    background-color: #6EAFE1;
+    border-color: #6eafe1;
+}
+
+.btn-outline-success:hover {
+    color: #fff;
+    background-color: #6eafe1;
+    border-color: #6EAFE1;
+}
+
+.btn-outline-success.focus, .btn-outline-success:focus {
+    box-shadow: 0 0 0 0.2rem rgba(115, 193, 224, 0.836);
+}
+
+/*
